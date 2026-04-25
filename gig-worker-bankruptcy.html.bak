@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<!-- BTN:GA4:START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-053Z64N82F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-053Z64N82F');
+  gtag('config', 'G-FTWLM223G7');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Bankruptcy for Gig Workers - Uber, DoorDash, Freelancer Guide - Fresh Start</title>
+<meta name="description" content="Guide to filing bankruptcy as a gig worker or freelancer. Means test issues, variable income, self-employment tax debt, and protecting your ...">
+<link rel="canonical" href="https://bankruptcyfreshstart.org/gig-worker-bankruptcy.html">
+<meta property="og:title" content="Bankruptcy for Gig Workers - Uber, DoorDash, Freelancer Guide - Fresh Start">
+<meta property="og:description" content="Guide to filing bankruptcy as a gig worker or freelancer. Means test issues, variable income, self-employment tax debt, and protecting your ...">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://bankruptcyfreshstart.org/gig-worker-bankruptcy.html">
+<meta property="og:site_name" content="bankruptcyfreshstart.org">
+<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://bankruptcyfreshstart.org/og-image.svg">
+<meta name="twitter:image" content="https://bankruptcyfreshstart.org/og-image.svg">
+<meta name="twitter:title" content="Bankruptcy for Gig Workers - Uber, DoorDash, Freelancer Guide - Fresh Start">
+<meta name="twitter:description" content="Guide to filing bankruptcy as a gig worker or freelancer. Means test issues, variable income, self-employment tax debt, and protecting your ...">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="sitemap" type="application/xml" href="/sitemap.xml">
+<meta name="theme-color" content="#0d1117">
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"Bankruptcy for Gig Workers - Uber, DoorDash, Freelancer Guide","description":"Guide to filing bankruptcy as a gig worker or freelancer. Means test issues, variable income, self-employment tax debt, and protecting your tools.","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"},"datePublished":"2026-04-02","dateModified":"2026-04-02","mainEntityOfPage":"https://bankruptcyfreshstart.org/gig-worker-bankruptcy.html"}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://bankruptcyfreshstart.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Fresh Start After Bankruptcy",
+          "item": "https://bankruptcyfreshstart.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bankruptcy for Gig Workers - Uber, DoorDash, Freelancer Guide",
+          "item": "https://bankruptcyfreshstart.org/gig-worker-bankruptcy.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Bankruptcy for Gig Workers - Uber, DoorDash, Freelancer Guide",
+      "url": "https://bankruptcyfreshstart.org/gig-worker-bankruptcy.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #9eaab6;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+    --yellow: #e3a835;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  nav {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0.75rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  nav .site-name {
+    color: #f0f6fc;
+    font-weight: 700;
+    font-size: 1.1rem;
+    text-decoration: none;
+  }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .hamburger {
+    display: none; background: none; border: 1px solid var(--border); color: var(--text);
+    font-size: 1.3rem; cursor: pointer; padding: 0.3rem 0.6rem; border-radius: 4px; line-height: 1;
+  }
+  .breadcrumb {
+    max-width: 760px;
+    margin: 1rem auto 0;
+    padding: 0 1.5rem;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  header {
+    background: linear-gradient(135deg, #0d2137, #122a44);
+    border-bottom: 1px solid var(--border);
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  header h1 {
+    color: #f0f6fc;
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  header h1 .accent { color: var(--accent); }
+  header .subtitle {
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  main { max-width: 760px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  .content-section h2 {
+    color: #f0f6fc;
+    font-size: 1.375rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .content-section h3 {
+    color: #f0f6fc;
+    font-size: 1.125rem;
+    margin: 1.5rem 0 0.75rem;
+  }
+  .content-section p {
+    color: var(--text);
+    margin-bottom: 0.75rem;
+    font-size: 0.95rem;
+  }
+  .content-section ul, .content-section ol {
+    margin: 0.75rem 0 0.75rem 1.5rem;
+    color: var(--text);
+    font-size: 0.95rem;
+  }
+  .content-section li { margin-bottom: 0.4rem; }
+  .statute-box {
+    background: #21262d;
+    border-left: 3px solid var(--accent);
+    padding: 1rem 1.25rem;
+    border-radius: 0 6px 6px 0;
+    margin: 1rem 0;
+  }
+  .statute-box p { margin-bottom: 0.5rem; }
+  .statute-box p:last-child { margin-bottom: 0; }
+  .warning-box {
+    background: #21262d;
+    border-left: 3px solid var(--red);
+    padding: 1rem 1.25rem;
+    border-radius: 0 6px 6px 0;
+    margin: 1rem 0;
+  }
+  .warning-box p { margin-bottom: 0.5rem; }
+  .warning-box p:last-child { margin-bottom: 0; }
+  .green-box {
+    background: #21262d;
+    border-left: 3px solid var(--green);
+    padding: 1rem 1.25rem;
+    border-radius: 0 6px 6px 0;
+    margin: 1rem 0;
+  }
+  .green-box p { margin-bottom: 0.5rem; }
+  .green-box p:last-child { margin-bottom: 0; }
+  .yellow-box {
+    background: #21262d;
+    border-left: 3px solid var(--yellow);
+    padding: 1rem 1.25rem;
+    border-radius: 0 6px 6px 0;
+    margin: 1rem 0;
+  }
+  .yellow-box p { margin-bottom: 0.5rem; }
+  .yellow-box p:last-child { margin-bottom: 0; }
+  table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+  th, td { padding: 0.6rem 1rem; text-align: left; border-bottom: 1px solid var(--border); }
+  th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+  .network-links {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 1.5rem 2rem;
+    margin-bottom: 1.5rem;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    line-height: 2;
+  }
+  .network-links strong { color: var(--text); }
+  footer {
+    background: var(--surface);
+    border-top: 1px solid var(--border);
+    padding: 2rem;
+    text-align: center;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-top: 2rem;
+  }
+  footer a { color: var(--accent); }
+  @media (max-width: 768px) {
+    .hamburger { display: inline-block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0; }
+    .nav-links.open { display: flex; }
+    .nav-links a {
+      display: block; padding: 0.6rem 0; margin: 0;
+      font-size: 0.95rem; min-height: 44px; line-height: 2;
+      border-bottom: 1px solid #21262d;
+    }
+    header { padding: 2rem 1rem; }
+    header h1 { font-size: 1.5rem; }
+    main { padding: 1.5rem 1rem; }
+    .content-section { padding: 1.25rem; }
+    table { font-size: 0.8rem; }
+    th, td { padding: 0.5rem 0.6rem; }
+  }
+</style>
+
+<link rel="alternate" hreflang="en" href="https://bankruptcyfreshstart.org/gig-worker-bankruptcy.html">
+<link rel="alternate" hreflang="es" href="https://bankruptcyfreshstart.org/gig-worker-bankruptcy-es.html">
+</head>
+<body>
+
+<nav aria-label="Main navigation">
+  <a href="/" class="site-name">bankruptcyfreshstart.org</a>
+  <button class="hamburger" aria-expanded="false" aria-controls="nav-links" aria-label="Toggle navigation menu">&#9776;</button>
+  <div class="nav-links" id="nav-links">
+    <a href="/">Home</a>
+    <a href="fresh-start.html">Fresh Start</a>
+    <a href="faq.html">FAQ</a>
+    <a href="resources.html">Resources</a>
+  </div>
+</nav>
+
+<header>
+  <h1>Bankruptcy for Gig Workers - Uber, DoorDash, Freelancer Guide</h1>
+  <p class="subtitle">Guide to filing bankruptcy as a gig worker or freelancer. Means test issues, variable income, self-employment tax debt, and protecting your tools.</p>
+</header>
+
+<div class="breadcrumb">
+  <a href="/">Home</a> &rsaquo; Bankruptcy for Gig Workers - Uber, DoorDash, Freelancer Guide
+</div>
+
+<main>
+
+<div class="content-section">
+  <h2>Bankruptcy for Gig Workers and Freelancers</h2>
+  
+<p>Filing bankruptcy as a gig worker presents unique challenges because your income is variable, you are self-employed, and your assets may include tools needed to earn a living.</p>
+<ul>
+<li><strong><a href="https://meanstest.org/" title="means test">Means test</a>:</strong> The 6-month income lookback uses your actual gross receipts. Variable gig income can make timing your filing strategically important - file when income is lower.</li>
+<li><strong>Self-employment expenses:</strong> Legitimate business expenses (vehicle, phone, supplies) reduce your <a href="https://meanstest.org" title="Bankruptcy Means Test - Open Bankruptcy Project" target="_blank" rel="noopener">means test</a> income. Document everything carefully.</li>
+<li><strong>1099 vs W-2:</strong> As a gig worker, you receive 1099s, not W-2s. This means no employer withholding, and you may owe self-employment taxes that have priority status in bankruptcy.</li>
+<li><strong>Tools of the trade:</strong> Most states have <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> for tools, equipment, and vehicles used in your trade. These protect your ability to earn a living post-bankruptcy.</li>
+</ul>
+</div>
+
+<div class="content-section">
+  <h2>Chapter 7 vs Chapter 13 for Gig Workers</h2>
+  
+<ul>
+<li><strong><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>:</strong> Works well if your average income over 6 months is below the state median. Since gig income fluctuates, you can time your filing for a low-income period.</li>
+<li><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>:</strong> Better if you have consistent gig income that exceeds the <a href="https://meanstest.org" title="Bankruptcy Means Test - Open Bankruptcy Project" target="_blank" rel="noopener">means test</a> but need to restructure debts. The challenge is proposing a feasible plan with variable income - courts may require you to demonstrate income stability.</li>
+</ul>
+<div class="yellow-box"><p><strong>Tax debt warning:</strong> Many gig workers fall behind on estimated quarterly taxes. Self-employment tax debt may or may not be dischargeable depending on the 3-2-240 rules. Make sure you have filed all required tax returns before filing bankruptcy.</p></div>
+</div>
+
+<div class="network-links">
+  <strong>Bankruptcy Tools Network:</strong><br>
+  <a href="https://1328f.com?utm_source=btn&utm_medium=crosslink&utm_campaign=bankruptcyfreshstart.org">Discharge Screener</a> &middot;
+    <a href="https://1328f.org?utm_source=btn&utm_medium=crosslink&utm_campaign=bankruptcyfreshstart.org">Research Platform</a> &middot;
+    <a href="https://bankruptcyexemptionsbystate.com?utm_source=btn&utm_medium=crosslink&utm_campaign=bankruptcyfreshstart.org">Exemptions by State</a> &middot;
+    <a href="https://keepmycarinbankruptcy.com?utm_source=btn&utm_medium=crosslink&utm_campaign=bankruptcyfreshstart.org">Keep Your Car</a> &middot;
+    <a href="https://keepmyhouseinbankruptcy.com?utm_source=btn&utm_medium=crosslink&utm_campaign=bankruptcyfreshstart.org">Keep Your House</a> &middot;
+    <a href="https://howmuchdoesbankruptcycost.com?utm_source=btn&utm_medium=crosslink&utm_campaign=bankruptcyfreshstart.org">Bankruptcy Cost</a> &middot;
+    <a href="https://filebankruptcywithoutlawyer.com?utm_source=btn&utm_medium=crosslink&utm_campaign=bankruptcyfreshstart.org">File Without a Lawyer</a> &middot;
+    <a href="https://rebuildcreditafterbankruptcy.com?utm_source=btn&utm_medium=crosslink&utm_campaign=bankruptcyfreshstart.org">Rebuild Credit</a> &middot;
+    <a href="https://buyahouseafterbankruptcy.com?utm_source=btn&utm_medium=crosslink&utm_campaign=bankruptcyfreshstart.org">Buy a House After</a> &middot;
+    <a href="https://buyacarafterbankruptcy.com?utm_source=btn&utm_medium=crosslink&utm_campaign=bankruptcyfreshstart.org">Buy a Car After</a>
+</div>
+</main>
+
+<!-- BTN:FOOTER:START -->
+<footer role="contentinfo">
+  <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+
+  <p style="margin-bottom:0.5rem">Free bankruptcy education. Not legal advice.</p>
+  <p style="margin-bottom:0.5rem">
+    <a href="/">Home</a> &middot;
+    <a href="fresh-start.html">Fresh Start</a> &middot;
+    <a href="faq.html">FAQ</a> &middot;
+    <a href="resources.html">Resources</a>
+  </p>
+  <p style="font-size:0.75rem">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script>
+document.querySelector('.hamburger').addEventListener('click', function() {
+  var nav = document.getElementById('nav-links');
+  var open = nav.classList.toggle('open');
+  this.setAttribute('aria-expanded', open);
+});
+</script>
+<script src="/btn-engage.js" defer></script>
+<div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=bankruptcyfreshstart.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=bankruptcyfreshstart.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=bankruptcyfreshstart.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=bankruptcyfreshstart.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=bankruptcyfreshstart.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+  </ul>
+</div>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>
